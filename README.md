@@ -136,5 +136,5 @@ endmodule
 
 ![output](./6.png)
 
-RESULTS
+## RESULTS :
 Therefore 8 to 3 Encoder and 3to8 Decoder are implemented successfully using verilog and validate its outputs
